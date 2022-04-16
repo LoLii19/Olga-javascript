@@ -1,0 +1,1 @@
+const myList = [["milk Depi" , 10 , "tetrapaks"] ,["yogurt" , 4 , "pieces"] , ["cheese" , 200  , "g" ] , ["tomatoes" , 1 , "kg"] , ["flour" , 1 ,"kg"]];

@@ -1,0 +1,2 @@
+// Only change code below this line
+const myArray = ["my new address is" , 10 ,"Kolesnikov street"];
